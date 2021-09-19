@@ -1,0 +1,21 @@
+<svg
+    id="visual"
+    viewBox="0 0 900 200"
+    width="900"
+    height="200"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="1.1">
+    <path
+      d="M0 34L150 77L300 19L450 88L600 90L750 29L900 96L900 201L750 201L600 201L450 201L300 201L150 201L0 201Z"
+      fill="#005d9a"></path>
+    <path
+      d="M0 40L150 71L300 109L450 42L600 70L750 73L900 73L900 201L750 201L600 201L450 201L300 201L150 201L0 201Z"
+      fill="#0268a7"></path>
+    <path
+      d="M0 114L150 98L300 106L450 61L600 65L750 52L900 54L900 201L750 201L600 201L450 201L300 201L150 201L0 201Z"
+      fill="#0573b3"></path>
+    <path
+      d="M0 114L150 116L300 111L450 63L600 70L750 97L900 76L900 201L750 201L600 201L450 201L300 201L150 201L0 201Z"
+      fill="#077ec0"></path>
+</svg>
